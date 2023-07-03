@@ -31,13 +31,13 @@
       <img src="https://github.com/Turing-ForSeason/.github/assets/109728087/80858524-9a6b-49bd-9a66-054c52e6e059.png" width="80px"/>
     </td>
     <td align="center">
-      <img src="https://github.com/Turing-ForSeason/.github/assets/109728087/80858524-9a6b-49bd-9a66-054c52e6e059.png" width="80px"/>
+      <img src="https://github.com/Turing-ForSeason/.github/assets/109728087/fa4efb40-f636-433f-a95a-b8eb353d30dd.png" width="80px"/>
     </td>
     <td align="center">
       <img src="https://github.com/Turing-ForSeason/.github/assets/109728087/80858524-9a6b-49bd-9a66-054c52e6e059.png" width="80px"/>
     </td>
     <td align="center">
-      <img src="https://github.com/Turing-ForSeason/.github/assets/109728087/80858524-9a6b-49bd-9a66-054c52e6e059.png" width="80px"/>
+      <img src="https://github.com/Turing-ForSeason/.github/assets/109728087/e64d933a-fe75-4304-8407-f3efa32608a6.png" width="80px"/>
     </td>
   </tr><tr width="100%">
     <td align="center">
@@ -50,7 +50,7 @@
       <a href="https://github.com/sooglasses64">@sooglasses64</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Cfctor9">@Cfctor9</a>
+      <a href="https://github.com/Ryooon2">@Ryooon2</a>
     </td>
     <td align="center">
       <a href="https://github.com/Withiue">@Withiue</a>
