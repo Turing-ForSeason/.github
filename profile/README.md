@@ -31,7 +31,7 @@
       <img src="" width="80px"/>
     </td>
     <td align="center">
-      <img src="" width="80px"/>
+      <img src="https://github.com/Turing-ForSeason/forseason-backend/assets/109728087/f6240bda-e6a4-434b-b863-6017387807d1.png" width="80px"/>
     </td>
     <td align="center">
       <img src="https://github.com/Turing-ForSeason/.github/assets/109728087/80858524-9a6b-49bd-9a66-054c52e6e059.png" width="80px"/>
